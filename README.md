@@ -1,3 +1,3 @@
-<h1> Arcade Game <h1>
+<h1> Arcade Game </h1>
 
-<p> Aracde game using Unity. <p>
+<p> Aracde game using Unity. </p>
